@@ -1,7 +1,7 @@
 # Hey there
 I'm Nathan Axcan, Comp Sci student @ TU Delft
 
-## 📚
+## 📚 Learnings
 In order to learn fast I do a lot of things like:
 - startup analysis ([Plug&Play Tech Center](https://www.plugandplaytechcenter.com/))
 - messing around in python ([NLP](https://simpletransformers.ai/), chatbots, transformer networks and other fun stuff)
@@ -11,10 +11,11 @@ In order to learn fast I do a lot of things like:
 - strategic advising (startups, projects)
 - dream analysis ([a few friends](https://en.wikipedia.org/wiki/The_Interpretation_of_Dreams))
 
-## 🙋‍
-And I also love to talk about interesting code, opportunities, ideas!
-Love cars in artistic, technical, and innovative lenses.
-Love technology in general actually.
+## 🙋‍Lateralizations
+Three things about me:
+1. I love to talk about interesting code, opportunities, ideas!
+2. I Love cars in artistic, technical, and innovative lenses.
+3. I Love technology in general actually.
 
-## 🔫
+## 🔫 Lexigraph
 Shoot an email over at nathanaxcan@gmail.com and I'll be happy to hear what you have to say. Who knows, maybe we can help eachother out!
